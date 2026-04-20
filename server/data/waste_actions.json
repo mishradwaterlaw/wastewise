@@ -1,0 +1,122 @@
+{
+  "plastic": {
+    "label": "Plastic",
+    "icon": "🧴",
+    "action": "recycle",
+    "urgency": "this_week",
+    "urgency_label": "Handle this week",
+    "co2_stat": "Recycling 1 kg of plastic saves 1.5 kg of CO₂ and prevents 500 years of landfill decay.",
+    "steps": [
+      "Rinse containers to remove any food residue — dirty plastic is unrecyclable.",
+      "Separate by type: check the number inside the recycling triangle (1–7).",
+      "Crush bottles to reduce volume before handing over.",
+      "Drop off at a dry waste collection point or schedule a kabadiwala pickup.",
+      "Never burn plastic — it releases toxic dioxins into the air."
+    ]
+  },
+  "food": {
+    "label": "Food Waste",
+    "icon": "🍌",
+    "action": "compost",
+    "urgency": "today",
+    "urgency_label": "Handle today",
+    "co2_stat": "1 kg of food waste in landfill creates 2.5 kg of methane — 80x more potent than CO₂.",
+    "steps": [
+      "Separate wet waste (food) from dry waste immediately — do not mix.",
+      "If you have a garden, start a simple compost pile or use a compost bin.",
+      "For bulk waste (café / restaurant), list it on the community board for a local farmer or composter.",
+      "Check your city's door-to-door wet waste collection schedule.",
+      "Cooked food can be donated to nearby NGOs or shelters before it spoils."
+    ]
+  },
+  "ewaste": {
+    "label": "E-Waste",
+    "icon": "💻",
+    "action": "dispose",
+    "urgency": "this_week",
+    "urgency_label": "Handle this week",
+    "co2_stat": "1 discarded battery contaminates up to 600,000 litres of groundwater.",
+    "steps": [
+      "Do NOT throw electronics in regular bins — heavy metals leach into soil and water.",
+      "Remove batteries separately — they require their own e-waste channel.",
+      "Check if the manufacturer offers a take-back or exchange programme.",
+      "Drop off at an authorised e-waste collection centre.",
+      "Functioning devices (old phones, laptops) can be donated to schools or NGOs."
+    ]
+  },
+  "paper": {
+    "label": "Paper",
+    "icon": "📄",
+    "action": "recycle",
+    "urgency": "flexible",
+    "urgency_label": "Flexible",
+    "co2_stat": "Recycling 1 tonne of paper saves 17 trees and 26,000 litres of water.",
+    "steps": [
+      "Keep paper dry — wet or greasy paper cannot be recycled.",
+      "Remove plastic wrapping, tape, or staples before bundling.",
+      "Bundle newspapers, cardboard, and office paper separately.",
+      "Sell or donate to a local kabadiwala or paper recycler.",
+      "Shred sensitive documents before handing over for privacy."
+    ]
+  },
+  "metal": {
+    "label": "Metal / Scrap",
+    "icon": "🔩",
+    "action": "recycle",
+    "urgency": "flexible",
+    "urgency_label": "Flexible",
+    "co2_stat": "Recycling aluminium uses 95% less energy than producing it from raw ore.",
+    "steps": [
+      "Separate ferrous metals (iron, steel) from non-ferrous (aluminium, copper, brass).",
+      "Clean off any food or liquid residue from tins and cans.",
+      "Flatten large metal items to reduce storage space.",
+      "Contact a scrap metal dealer — most will offer a per-kg rate and pickup.",
+      "For small quantities, aggregate with a neighbour and call together for better pricing."
+    ]
+  },
+  "hazardous": {
+    "label": "Hazardous",
+    "icon": "☢️",
+    "action": "dispose",
+    "urgency": "today",
+    "urgency_label": "Handle today",
+    "co2_stat": "One litre of used motor oil can contaminate 1 million litres of drinking water.",
+    "steps": [
+      "Store hazardous waste (paint, chemicals, oil, pesticides) in their original sealed containers.",
+      "Do NOT pour down the drain, sink, or toilet.",
+      "Keep away from children, pets, and flammable materials.",
+      "Find the nearest authorised hazardous waste facility from the map below.",
+      "Contact your municipal corporation for scheduled hazardous waste collection drives."
+    ]
+  },
+  "textile": {
+    "label": "Textiles",
+    "icon": "👕",
+    "action": "donate",
+    "urgency": "flexible",
+    "urgency_label": "Flexible",
+    "co2_stat": "Extending the life of a garment by 9 months reduces its carbon, water, and waste footprint by 20–30%.",
+    "steps": [
+      "Sort into wearable (donate) and non-wearable (repurpose or recycle).",
+      "Wash wearable clothes before donating — it matters to recipients.",
+      "Drop off at an NGO collection point, old-age home, or orphanage.",
+      "Non-wearable fabric can be used as cleaning rags or stuffing material.",
+      "Some brands (H&M, Zara, Decathlon) run in-store textile collection programmes."
+    ]
+  },
+  "other": {
+    "label": "Other",
+    "icon": "🗑️",
+    "action": "dispose",
+    "urgency": "this_week",
+    "urgency_label": "Handle this week",
+    "co2_stat": "General waste in landfills generates up to 1.5 kg of CO₂ equivalent per kg over its lifetime.",
+    "steps": [
+      "Identify the dominant material in the waste and treat it accordingly.",
+      "If it contains multiple materials, disassemble and separate where possible.",
+      "Check if any part of it has a resale or reuse value before discarding.",
+      "For bulk or bulky waste, contact your municipal solid waste department.",
+      "When in doubt, do not mix with food or recyclables — keep general waste separate."
+    ]
+  }
+}
